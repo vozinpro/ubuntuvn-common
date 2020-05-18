@@ -1,0 +1,112 @@
+# Swedish translation for .
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: panel-indicator@ubuntuvn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-12 07:50+0200\n"
+"PO-Revision-Date: 2017-05-12 09:11+0200\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv\n"
+
+#: applet.js:51
+msgid "Panel Edit mode"
+msgstr "Panelredigeringsläge"
+
+#: applet.js:57
+msgid "Add applets to the panel"
+msgstr "Lägg till panelprogram"
+
+#. panel-indicator@ubuntuvn->metadata.json->description
+msgid ""
+"hide a few applet to have a neater panel, and make them show up again by a "
+"click"
+msgstr ""
+"Dölj några panelprogram för att få en snyggare panel, och visa dem igen med "
+"ett klick"
+
+#. panel-indicator@ubuntuvn->metadata.json->name
+msgid "Drawer (show/hide applets)"
+msgstr "Drawer (visa/dölj panelprogram)"
+
+#. panel-indicator@ubuntuvn->settings-
+#. schema.json->hoveractivateshide->description
+msgid "Hide on hovering again"
+msgstr "Hovra igen, för att dölja"
+
+#. panel-indicator@ubuntuvn->settings-
+#. schema.json->hoveractivateshide->tooltip
+msgid "toggle visibility of applets on mouse hover"
+msgstr "Dölj panelprogrammen vid hovring"
+
+#. panel-indicator@ubuntuvn->settings-
+#. schema.json->autohiderstime->description
+msgid "Reshowers' autohide delay: "
+msgstr "Fördröjning för att automatiskt dölja panelprogram som visas igen: "
+
+#. panel-indicator@ubuntuvn->settings-schema.json->autohiderstime->units
+#. panel-indicator@ubuntuvn->settings-schema.json->hidetime->units
+msgid "seconds"
+msgstr "sekunder"
+
+#. panel-indicator@ubuntuvn->settings-
+#. schema.json->disablestarttimeautohide->description
+msgid "Disable start time autohide"
+msgstr "Dölj inte automatiskt vid systemstart"
+
+#. panel-indicator@ubuntuvn->settings-
+#. schema.json->disablestarttimeautohide->tooltip
+msgid "if not in autohide mode"
+msgstr "Om  \"Dölj automatiskt\" är avstängt"
+
+#. panel-indicator@ubuntuvn->settings-schema.json->head->description
+msgid "Settings for panel-indicator@ubuntuvn"
+msgstr "Inställningar för panel-indicator@ubuntuvn"
+
+#. panel-indicator@ubuntuvn->settings-schema.json->autohide->description
+msgid "Autohide"
+msgstr "Dölj automatiskt"
+
+#. panel-indicator@ubuntuvn->settings-schema.json->autohide->tooltip
+msgid ""
+"check if you want to hide applets automatically, unless you should click on "
+"applet to do so"
+msgstr ""
+"Aktiveras om du vill dölja panelprogrammen automatiskt, annars får du "
+"klicka för att dölja dem."
+
+#. panel-indicator@ubuntuvn->settings-
+#. schema.json->autohiders->description
+msgid "Autohide reshowing applets"
+msgstr "Dölj automatiskt, panelprogram som visas igen"
+
+#. panel-indicator@ubuntuvn->settings-schema.json->hovertime->description
+msgid "Hover activates/hides after "
+msgstr "Hovring visar/döljer efter "
+
+#. panel-indicator@ubuntuvn->settings-schema.json->hovertime->units
+msgid "miliseconds"
+msgstr "millisekunder"
+
+#. panel-indicator@ubuntuvn->settings-schema.json->hidetime->description
+msgid "Autohide after "
+msgstr "Dölj automatiskt efter"
+
+#. panel-indicator@ubuntuvn->settings-
+#. schema.json->hoveractivates->description
+msgid "Activate on hover"
+msgstr "Visa vid hovring"
+
+#. panel-indicator@ubuntuvn->settings-
+#. schema.json->hoveractivates->tooltip
+msgid "show applets on mouse hover"
+msgstr "Visa de dolda panelprogrammen vid hovring"

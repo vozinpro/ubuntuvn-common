@@ -1,0 +1,7 @@
+#! /bin/sh
+set -e
+
+if [ "$1" = rtupdate ]; then
+	py3clean -p ubuntuvn-common /usr/share/cinnamon
+	py3compile -p ubuntuvn-common  /usr/share/cinnamon
+fi

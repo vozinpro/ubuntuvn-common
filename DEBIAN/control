@@ -1,0 +1,22 @@
+Package: ubuntuvn-common
+Source: cinnamon
+Version: 4.4.918
+Architecture: all
+Maintainer: Ubuntuvn respin <vozforums.info@gmail.com>
+Original-Maintainer: Debian Cinnamon Team <debian-cinnamon@lists.debian.org>
+Installed-Size: 6737
+Depends: gettext, gir1.2-cinnamondesktop-3.0 (>= 4.4), gir1.2-meta-muffin-0.0 (>= 4.4), libglib2.0-bin, python3-xapp, xdg-utils, dconf-gsettings-backend | gsettings-backend, python3:any
+Breaks: cinnamon (<< 3.6.7-1~)
+Replaces: cinnamon (<< 3.6.7-1~)
+Section: x11
+Priority: optional
+Homepage: http://cinnamon.linuxmint.com
+Description: Innovative and comfortable desktop (Common data files)
+ Cinnamon is a desktop environment which provides advanced innovative
+ features and a traditional user experience.
+ .
+ The desktop layout is similar to GNOME 2.  The underlying technology is
+ forked from gnome-shell.  The emphasis is put on making users feel at home
+ and providing them with an easy to use and comfortable desktop experience.
+ .
+ This package contains the data files needed by Cinnamon
