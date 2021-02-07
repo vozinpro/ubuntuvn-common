@@ -5,27 +5,27 @@
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV#
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png" tvg-chno="1", VTV1
-https://fuy5map58.vtvgiaitri.vn/vtv01/index-34.m3u8
+http://27.67.80.85:18080//154_1.m3u8?AdaptiveType=HLS&SessionID=15c987fb-8e49-4ed7-9d35-e390a8e3fddc&MinBw=0&MaxBw=2000000
 #EXTINF:0 tvg-id="vtv2hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png" tvg-chno="2", VTV2
-https://fuy5map58.vtvgiaitri.vn/vtv02/index-48.m3u8
+http://27.67.80.83:18080//192_1.m3u8?AdaptiveType=HLS&SessionID=db70d885-0b71-4c34-831f-b206bce2dd4e&MinBw=0&MaxBw=2000000
 #EXTINF:0 tvg-id="vtv3hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png" tvg-chno="3", VTV3
-https://fuy5map58.vtvgiaitri.vn/vtv03/index-34.m3u8
+http://27.67.80.84:18080//155_2.m3u8?AdaptiveType=HLS&SessionID=07a30f3b-3bf6-4d11-91a1-f3e477e19cd5&MinBw=0&MaxBw=2000000
 #EXTINF:0 tvg-id="vtv4hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" tvg-chno="4", VTV4
-https://fuy5map58.vtvgiaitri.vn/vtv05/index-34.m3u8
+http://27.67.80.72:18080//193_1.m3u8?AdaptiveType=HLS&SessionID=8f274325-8837-429b-b018-a27b08660609&MinBw=0&MaxBw=2000000
 #EXTINF:0 tvg-id="vtv5hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" tvg-chno="5", VTV5
-https://fuy5map58.vtvgiaitri.vn/vtv05/index-34.m3u8
+http://27.67.80.75:18080//194_1.m3u8?AdaptiveType=HLS&SessionID=7810f082-1a22-4c29-9db7-1cd7fe8978f1&MinBw=0&MaxBw=2000000
 #EXTINF:0 tvg-id="" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5| Tây Nam Bộ
 https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
 #EXTINF:0 tvg-id="" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5| Tây Nguyên
 https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png" tvg-chno="6", VTV6
-https://fuy5map58.vtvgiaitri.vn/vtv06/index-34.m3u8
+http://27.67.50.86:18080//156_2.m3u8?AdaptiveType=HLS&SessionID=1c1c1010-a7e1-40d2-973d-845489382709&MinBw=0&MaxBw=2000000
 #EXTINF:0 tvg-id="vtv7hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png" tvg-chno="7", VTV7
-https://fuy5map58.vtvgiaitri.vn/vtv07/index-34.m3u8
+http://27.67.80.72:18080//195_1.m3u8?AdaptiveType=HLS&SessionID=a1d10907-855f-4c08-a7fc-3581971ccb10&MinBw=0&MaxBw=2000000
 #EXTINF:0 tvg-id="vtv8hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" tvg-chno="8", VTV8
-https://fuy5map58.vtvgiaitri.vn/vtv08/index-34.m3u8
+http://27.67.64.72:18080//196_1.m3u8?AdaptiveType=HLS&SessionID=ae0f041f-1cda-4955-a261-3d7def14eee2&MinBw=0&MaxBw=2000000
 #EXTINF:0 tvg-id="vtv9hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png" tvg-chno="9", VTV9
-https://fuy5map58.vtvgiaitri.vn/vtv09/index-34.m3u8
+http://27.67.80.68:18080//197_1.m3u8?AdaptiveType=HLS&SessionID=3e183022-0452-43ad-9277-2b25ef550bac&MinBw=0&MaxBw=2000000
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - VTC#
 
