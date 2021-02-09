@@ -5,13 +5,13 @@
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV#
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png" tvg-chno="1", VTV1
-http://27.67.50.78:18080//154_1.m3u8?AdaptiveType=HLS&SessionID=72f42b7f-ba04-4849-8a9b-a7ce79e44b91&MinBw=0&MaxBw=2000000
+http://118.107.85.13:1935/tvnet/smil:vtv1.smil/playlist.m3u8?vtcdigicomstarttime=1612833146&vtcdigicomendtime=1612919546&vtcdigicomhash=Wsmp23XPnVj7u7OOl3jFRCGdbwKeDmBtSpd3kzLmxlU=
 #EXTINF:0 tvg-id="vtv2hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png" tvg-chno="2", VTV2
-http://27.67.80.83:18080//192_1.m3u8?AdaptiveType=HLS&SessionID=db70d885-0b71-4c34-831f-b206bce2dd4e&MinBw=0&MaxBw=2000000
+http://118.107.85.11:1935/tvnet/smil:vtv2.smil/playlist.m3u8?vtcdigicomstarttime=1612833251&vtcdigicomendtime=1612919651&vtcdigicomhash=arJ7eTMK91WsfX55GFQFqEj7dEuzOoaXm2I6NwW5cuo=
 #EXTINF:0 tvg-id="vtv3hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png" tvg-chno="3", VTV3
-http://27.67.80.84:18080//155_2.m3u8?AdaptiveType=HLS&SessionID=07a30f3b-3bf6-4d11-91a1-f3e477e19cd5&MinBw=0&MaxBw=2000000
+http://118.107.85.11:1935/tvnet/smil:vtv3.smil/playlist.m3u8?vtcdigicomstarttime=1612833280&vtcdigicomendtime=1612919680&vtcdigicomhash=jTagPkvUGDC4TlhRiMzw65-ugGwKrG64UPD9Z1iYeLo=
 #EXTINF:0 tvg-id="vtv4hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" tvg-chno="4", VTV4
-http://27.67.80.72:18080//193_1.m3u8?AdaptiveType=HLS&SessionID=8f274325-8837-429b-b018-a27b08660609&MinBw=0&MaxBw=2000000
+http://118.107.85.11:1935/tvnet/smil:vtv4.smil/playlist.m3u8?vtcdigicomstarttime=1612833309&vtcdigicomendtime=1612919709&vtcdigicomhash=OwYrjZh6BOOf4zXjVkpXnwIghCkt-dmiiZP9Iv7toeU=
 #EXTINF:0 tvg-id="vtv5hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" tvg-chno="5", VTV5
 http://27.67.80.75:18080//194_1.m3u8?AdaptiveType=HLS&SessionID=7810f082-1a22-4c29-9db7-1cd7fe8978f1&MinBw=0&MaxBw=2000000
 #EXTINF:0 tvg-id="" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5| Tây Nam Bộ
