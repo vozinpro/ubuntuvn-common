@@ -164,150 +164,69 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.245:10344
 #EXTINF:0 tvg-id="vtvcab23_golf_hd" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Th%E1%BB%83_thao_TV_HD_Golf_new_logo.png/revision/latest/scale-to-width-down/340?cb=20191114130942",VTVcab23| Golf TV
 http://quocthai.duckdns.org:18886/rtp/232.84.2.246:10876
 
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - Tôi yêu Việt Nam#
 
-#EXTINF:0 tvg-id="vovtv"  group-title="👨‍👨‍👧‍👦| Tôi yêu 🇻🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",VOV| Đài Tiếng Nói Việt Nam
-http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
-#EXTINF:0 tvg-id="ttxvn"  group-title="👨‍👨‍👧‍👦| Tôi yêu 🇻🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",VNews| Thông Tấn Xã Việt Nam
-http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
-#EXTINF:0 tvg-id="antvhd"  group-title="👨‍👨‍👧‍👦| Tôi yêu 🇻🇳" tvg-logo="https://htvc.vn/uploads/editor/images/1423638450_logoantv.png",An Ninh TV
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="nhan_dan_tv"  group-title="👨‍👨‍👧‍👦| Tôi yêu 🇻🇳" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
-http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
-#EXTINF:0 tvg-id="quoc_phong_tv"  group-title="👨‍👨‍👧‍👦| Tôi yêu 🇻🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quốc Phòng TV
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:0 tvg-id="quoc_hoi_tv"  group-title="👨‍👨‍👧‍👦| Tôi yêu 🇻🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
-http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
 
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - Quê hương#
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - Kênh địa phương#
 
-#EXTINF:0 tvg-id="hanoitv1" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",❤️|  Hà Nội 1
+#EXTINF:0 tvg-id="hanoitv1" group-title="👨‍👨‍👧‍👦| Kênh địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",❤️|  Hà Nội 1
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
-#EXTINF:0 tvg-id="hanoitv2" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",❤️|  Hà Nội 2
+#EXTINF:0 tvg-id="hanoitv2" group-title="👨‍👨‍👧‍👦| Kênh địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",❤️|  Hà Nội 2
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 
-#EXTINF:0 tvg-id="" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",🧡| Đà Nẵng 1
+#EXTINF:0 tvg-id="" group-title="👨‍👨‍👧‍👦| Kênh địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",🧡| Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",🧡| Đà Nẵng 2
+#EXTINF:0 tvg-id="" group-title="👨‍👨‍👧‍👦| Kênh địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",🧡| Đà Nẵng 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png",💚| Cần Thơ
+#EXTINF:0 tvg-id="" group-title="👨‍👨‍👧‍👦| Kênh địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png",💚| Cần Thơ
 https://tv.canthotv.vn/live/tv/tv.m3u8
 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - TH Miền Tây#
 
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20191203102140%21THVL_Logo.png",💚| Vĩnh Long 1
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="👨‍👨‍👧‍👦| Kênh địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20191203102140%21THVL_Logo.png",💚| Vĩnh Long 1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20191203102140%21THVL_Logo.png",💚| Vĩnh Long 2
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="👨‍👨‍👧‍👦| Kênh địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20191203102140%21THVL_Logo.png",💚| Vĩnh Long 2
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20191203102140%21THVL_Logo.png",💚| Vĩnh Long 3
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="👨‍👨‍👧‍👦| Kênh địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20191203102140%21THVL_Logo.png",💚| Vĩnh Long 3
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20191203102140%21THVL_Logo.png",💚| Vĩnh Long 4
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="👨‍👨‍👧‍👦| Kênh địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20191203102140%21THVL_Logo.png",💚| Vĩnh Long 4
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - TH Miền Trung#
 
-#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/QRTV_HD_Quang_Tri.png/revision/latest/scale-to-width-down/340?cb=20201014074436&path-prefix=vi",🧡| Quảng Trị
+#EXTINF:0 group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/QRTV_HD_Quang_Tri.png/revision/latest/scale-to-width-down/340?cb=20201014074436&path-prefix=vi",🧡| Quảng Trị
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/NTV_logo_%28Ngh%E1%BB%87_An%29_from_200x_-_2013.png/revision/latest/scale-to-width-down/340?cb=20181024170144&path-prefix=vi",🧡| Nghệ An
+#EXTINF:0 group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/NTV_logo_%28Ngh%E1%BB%87_An%29_from_200x_-_2013.png/revision/latest/scale-to-width-down/340?cb=20181024170144&path-prefix=vi",🧡| Nghệ An
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/666883-hatinh.png",🧡| Hà Tĩnh
+#EXTINF:0 group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/666883-hatinh.png",🧡| Hà Tĩnh
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/HTV_Hue.png/revision/latest?cb=20201030102035&path-prefix=vi",🧡| Thừa Thiên Huế
+#EXTINF:0 group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/HTV_Hue.png/revision/latest?cb=20201030102035&path-prefix=vi",🧡| Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
 
 
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - The Cup Of Life#
-
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 1
+#EXTINF:0 tvg-id="vovtv"  group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",VOV| Đài Tiếng Nói Việt Nam
+http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
+#EXTINF:0 tvg-id="ttxvn"  group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",VNews| Thông Tấn Xã Việt Nam
+http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
+#EXTINF:0 tvg-id="antvhd"  group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://htvc.vn/uploads/editor/images/1423638450_logoantv.png",An Ninh TV
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 2
+https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="nhan_dan_tv"  group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
+http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
+#EXTINF:0 tvg-id="quoc_phong_tv"  group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quốc Phòng TV
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 4
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 5
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 6
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net:80/footballassociation/facup06_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 7
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net:80/footballassociation/facup07_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 8
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup08_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 9
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup09_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup10_2000.stream/chunklist.m3u8
-
-
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 4
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea04_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 5
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea05_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 6
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea06_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 7
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea07_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 8
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea08_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 9
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
-
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
-#EXTINF:0 channelId="812" group-title="🏆| Giải bóng đá", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 4 | e-Event
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Giải bóng đá", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 5 | e-Sport
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 tvg-id="quoc_hoi_tv"  group-title="👨‍👨‍👧‍👦| Kênh địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
+http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - QNET#
 
@@ -383,144 +302,133 @@ http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - FOX#
-
-#EXTINF:0 tvg-id="foxhd" group-title="🦊| FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="foxlifehd" group-title="🦊| FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png",FOX Life
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/chunks.m3u8
-#EXTINF:0 tvg-id="fox_movies" group-title="🦊| FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png",FOX Movies
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="foxmovieshd" group-title="🦊| FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png",FOX Family Movies
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:0 group-title="🦊| FOX", tvg-logo="https://iconape.com/wp-content/files/ea/122167/png/Fox_Action_Movies_logo.png", FOX Action Movies
-http://tvku.live:8888/provision/pp/99
-#EXTINF:0 tvg-id="foxsportshd" group-title="🦊| FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sport 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="foxsports2hd" group-title="🦊| FOX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/340?cb=20160413213908",FOX Sport 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="fox_sports3" group-title="🦊| FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",FOX Sport 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- HBO Asia#
 
-#EXTINF:0 tvg-id="hbo" group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO (English sub)
+#EXTINF:0 tvg-id="hbo" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO (English sub)
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
-#EXTINF:0 tvg-id="max_by_hbo" group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax (English sub)
+#EXTINF:0 tvg-id="max_by_hbo" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax (English sub)
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-#EXTINF:0 group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family (English sub)
+#EXTINF:0 group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family (English sub)
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-#EXTINF:0 group-title="🎬| HBO & Fox", tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (English sub)
+#EXTINF:0 group-title="🎬| Phim", tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (English sub)
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
-#EXTINF:0 group-title="🎬| HBO & Fox", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature (English sub)
+#EXTINF:0 group-title="🎬| Phim", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature (English sub)
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
-#EXTINF:0 group-title="🎬| HBO & Fox" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png", HBO Xtreme
+#EXTINF:0 group-title="🎬| Phim" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png", HBO Xtreme
 http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35258
-#EXTINF:0 group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix
+#EXTINF:0 group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="hbo" group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO
+#EXTINF:0 tvg-id="hbo" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:0 tvg-id="red_by_hbo" group-title="🎬| HBO & Fox" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
+#EXTINF:0 tvg-id="red_by_hbo" group-title="🎬| Phim" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:0 tvg-id="max_by_hbo" group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+#EXTINF:0 tvg-id="max_by_hbo" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:0 group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family
+#EXTINF:0 group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:0 group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
+#EXTINF:0 group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:0 group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature
+#EXTINF:0 group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-#EXTINF:0 group-title= "🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",HBO
+#EXTINF:0 group-title= "🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",HBO
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
-#EXTINF:0 group-title= "🎬| HBO & Fox"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Red by HBO
+#EXTINF:0 group-title= "🎬| Phim"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Red by HBO
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.93:30120
-#EXTINF:0 group-title= "🎬| HBO & Fox"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Max by HBO
+#EXTINF:0 group-title= "🎬| Phim"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Max by HBO
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
-#EXTINF:0 group-title= "🎬| HBO & Fox"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
+#EXTINF:0 group-title= "🎬| Phim"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
-#EXTINF:0 group-title= "🎬| HBO & Fox"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Junior
+#EXTINF:0 group-title= "🎬| Phim"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Junior
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
-#EXTINF:0 tvg-id="dreamwork" group-title= "🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",DreamWork
+#EXTINF:0 tvg-id="dreamwork" group-title= "🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",DreamWork
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
 
-#EXTINF:0 tvg-id="hbo" group-title= "🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",HBO
+#EXTINF:0 tvg-id="hbo" group-title= "🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.3.101:10648
-#EXTINF:0 tvg-id="red_by_hbo"  group-title= "🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Red by HBO
+#EXTINF:0 tvg-id="red_by_hbo"  group-title= "🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Red by HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.3.103:10840
-#EXTINF:0 tvg-id="max_by_hbo"  group-title= "🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Max by HBO
+#EXTINF:0 tvg-id="max_by_hbo"  group-title= "🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Max by HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.3.117:10654
-#EXTINF:0 tvg-id="disney"  group-title= "🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Channel
+#EXTINF:0 tvg-id="disney"  group-title= "🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Channel
 http://quocthai.duckdns.org:18886/rtp/232.84.2.143:10678
-#EXTINF:0 tvg-id="disneyjunior"  group-title= "🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Junior
+#EXTINF:0 tvg-id="disneyjunior"  group-title= "🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Junior
 http://quocthai.duckdns.org:18886/rtp/232.84.1.90:10398
 
-#EXTINF:0  tvg-id="cinema_world" group-title="🎬| HBO & Fox" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
+#EXTINF:0  tvg-id="cinema_world" group-title="🎬| Phim" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
-#EXTINF:0  tvg-id="warner_tv_hd" group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png",Warner Bros
+#EXTINF:0  tvg-id="warner_tv_hd" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png",Warner Bros
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-#EXTINF:0  tvg-id="hbo" group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
+#EXTINF:0  tvg-id="hbo" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
 http://gg.gg/cocahbo
-#EXTINF:0  tvg-id="red_by_hbo" group-title="🎬| HBO & Fox" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/340?cb=20210104162109",Red by HBO
+#EXTINF:0  tvg-id="red_by_hbo" group-title="🎬| Phim" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/340?cb=20210104162109",Red by HBO
 http://gg.gg/cocahbored
-#EXTINF:0  tvg-id="max_by_hbo" group-title="🎬| HBO & Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/1280px-HBO_Max_Logo.svg.png",Cinemax
+#EXTINF:0  tvg-id="max_by_hbo" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/1280px-HBO_Max_Logo.svg.png",Cinemax
 http://gg.gg/cocahbomax
+
+
+#EXTINF:0 tvg-id="foxhd" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="foxlifehd" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png",FOX Life
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/chunks.m3u8
+#EXTINF:0 tvg-id="fox_movies" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png",FOX Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="foxmovieshd" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png",FOX Family Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:0 group-title="🎬| Phim", tvg-logo="https://iconape.com/wp-content/files/ea/122167/png/Fox_Action_Movies_logo.png", FOX Action Movies
+http://tvku.live:8888/provision/pp/99
+#EXTINF:0 tvg-id="foxsportshd" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sport 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="foxsports2hd" group-title="🎬| Phim" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/340?cb=20160413213908",FOX Sport 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="fox_sports3" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",FOX Sport 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - KID#
 
-#EXTINF:0 tvg-id="canimax" group-title="👶| Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
+#EXTINF:0 tvg-id="canimax" group-title="👶| Thiếu nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-#EXTINF:0 tvg-id="bbc_cbeebies" group-title="👶| Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
+#EXTINF:0 tvg-id="bbc_cbeebies" group-title="👶| Thiếu nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="baby_first" group-title="👶| Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png",Baby First
+#EXTINF:0 tvg-id="baby_first" group-title="👶| Thiếu nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png",Baby First
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="👶| Kid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",Boomerang
+#EXTINF:0 tvg-id="boomerang" group-title="👶| Thiếu nhi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",Boomerang
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="cartoonhd" group-title="👶| Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTINF:0 tvg-id="cartoonhd" group-title="👶| Thiếu nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="da_vinci" group-title="👶| Kid" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci
+#EXTINF:0 tvg-id="da_vinci" group-title="👶| Thiếu nhi" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="disney_channel" group-title="👶| Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel
+#EXTINF:0 tvg-id="disney_channel" group-title="👶| Thiếu nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel
 http://gg.gg/cocadisney
-#EXTINF:0 tvg-id="disney_junior" group-title="👶| Kid" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738",Disney Junior
+#EXTINF:0 tvg-id="disney_junior" group-title="👶| Thiếu nhi" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738",Disney Junior
 http://gg.gg/cocajunior
-#EXTINF:0 tvg-id="English_Singging" group-title="👶| Kid" tvg-logo="https://i.pinimg.com/564x/b5/a2/04/b5a204c3c962bc496089eb8f0c7037b2.jpg",English Singing
+#EXTINF:0 tvg-id="English_Singging" group-title="👶| Thiếu nhi" tvg-logo="https://i.pinimg.com/564x/b5/a2/04/b5a204c3c962bc496089eb8f0c7037b2.jpg",English Singing
 http://36.37.252.114:888/Apple/OneTV-025/playlist.m3u8
 
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- ART#
-
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://i.pinimg.com/236x/f7/c4/31/f7c431bce50ee3fd6cb5106a06090afd.jpg",Jasmin
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w999353518.m3u8
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Models_Inc._%28title_card%29.jpg/250px-Models_Inc._%28title_card%29.jpg",Models Inc.
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://a1-images.myspacecdn.com/images03/2/e443052030a742d989d04313e079b648/300x300.jpg",A3 bikini
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://i.pinimg.com/originals/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",🔞| FTV MidNite Secrects
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - MTV#
 
-#EXTINF:0 group-title="🎶| MTV", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Asia
+#EXTINF:0 group-title="🎶| Âm nhạc", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Asia
 https://cdn.kr130.jpnettv.live/live/mtv/playlist.m3u8
-#EXTINF:0 group-title="🎶| MTV", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Yo!
+#EXTINF:0 group-title="🎶| Âm nhạc", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:0 group-title="🎶| MTV", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Biggest Pop
+#EXTINF:0 group-title="🎶| Âm nhạc", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0 group-title="🎶| MTV", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Block Party
+#EXTINF:0 group-title="🎶| Âm nhạc", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:0 group-title="🎶| MTV", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Spankin' New
+#EXTINF:0 group-title="🎶| Âm nhạc", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:0 group-title="🎶| MTV", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV WMA
+#EXTINF:0 group-title="🎶| Âm nhạc", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:0 group-title="🎶| MTV", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/EU_Music_logo_2015.jpg",EU Music
+#EXTINF:0 group-title="🎶| Âm nhạc", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/EU_Music_logo_2015.jpg",EU Music
 http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - NEWS#
@@ -570,116 +478,191 @@ https://tv4.live/api/stream/xopayil123@poetred.com/362037/livetv.epg/cnbc.usa.us
 https://tv4.live/api/stream/xopayil123@poetred.com/362037/livetv.epg/cnbc.world.us.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SPORT#
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 4
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 5
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 6
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net:80/footballassociation/facup06_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 7
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net:80/footballassociation/facup07_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 8
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup08_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 9
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup09_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 10
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup10_2000.stream/chunklist.m3u8
 
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 4
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea04_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 5
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea05_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 6
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea06_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 7
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea07_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 8
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea08_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 9
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 10
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
+
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
+#EXTINF:0 channelId="812" group-title="🏀| Thể thao", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 4 | e-Event
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 5 | e-Sport
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 https://tv4.live/api/stream/xopayil123@poetred.com/362037/livetv.epg/fox.sports.1.us.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 https://tv4.live/api/stream/xopayil123@poetred.com/362037/livetv.epg/fox.sports.2.us.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN 1 🇺🇸
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN 1 🇺🇸
 https://tv4.live/api/stream/xopayil123@poetred.com/362037/livetv.epg/espn.us.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png",ESPN 2 🇺🇸
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png",ESPN 2 🇺🇸
 https://tv4.live/api/stream/xopayil123@poetred.com/362037/livetv.epg/espn2.us.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ESPN U
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ESPN U
 https://tv4.live/api/stream/xopayil123@poetred.com/362037/livetv.epg/espn.u.us.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png",ESPN News
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png",ESPN News
 https://tv4.live/api/stream/xopayil123@poetred.com/362037/livetv.epg/espn.news.us.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",ESPN  Deportes
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",ESPN  Deportes
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 1
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN 2
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png",🥊| UFC
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png",🥊| UFC
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:0 group-title="🏀| Sport", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png",🎾| Tennis Channel
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png",🎾| Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png",🎾| Tennis Channel Plus
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png",🎾| Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:0 group-title="🏀| Sport", tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6402.1514269404.png",🏇| Sky Racing 1
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6402.1514269404.png",🏇| Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:0 group-title="🏀| Sport", tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6411.1514269377.png",🏇| Sky Racing 2
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6411.1514269377.png",🏇| Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:0 group-title="🏀| Sport", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png",🏇| Racing.com
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png",🏇| Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",🏎️| SKY Sport - F1
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",🏎️| SKY Sport - F1
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",🏌️| SKY Sport - MainEvent
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",🏌️| SKY Sport - MainEvent
 http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683738
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY Sport - Football
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY Sport - Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY Sport - Premier Luague
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY Sport - Premier Luague
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 1
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 2
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 3
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 3
 https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 4
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 4
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 5
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier Football 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV1
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV2
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV2
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV3
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV4
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV4
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV5
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",SPORT.TV5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",TRUE Sport HD1
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",TRUE Sport HD1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",,TRUE Sport HD2
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",,TRUE Sport HD2
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",TRUE Sport HD3
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",TRUE Sport HD3
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest/scale-to-width-down/340?cb=20200922172456",ASTRO Super Sport 1
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest/scale-to-width-down/340?cb=20200922172456",ASTRO Super Sport 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest/scale-to-width-down/340?cb=20200922172456",ASTRO Super Sport 3
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest/scale-to-width-down/340?cb=20200922172456",ASTRO Super Sport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",BEIN Sport Asia 1
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",BEIN Sport Asia 1
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",BEIN Sport Asia 2
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",BEIN Sport Asia 2
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD1
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD1
 http://novaiptv.vip:80/waled89/ramer452/15933
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD2
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD2
 http://novaiptv.vip:80/waled89/ramer452/15934
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD3
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD3
 http://novaiptv.vip:80/waled89/ramer452/15935
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD4
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD4
 http://novaiptv.vip:80/waled89/ramer452/15936
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD5
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD5
 http://novaiptv.vip:80/waled89/ramer452/15937
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD6
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD6
 http://novaiptv.vip:80/waled89/ramer452/15938
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD7
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD7
 http://novaiptv.vip:80/waled89/ramer452/15939
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD8
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD8
 http://novaiptv.vip:80/waled89/ramer452/15940
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD9
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD9
 http://novaiptv.vip:80/waled89/ramer452/15941
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport  HD10
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport  HD10
 http://novaiptv.vip:80/waled89/ramer452/15942
 
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png",BT Sport 1
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png",BT Sport 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png",BT Sport 2
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png",BT Sport 2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV 5
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV 5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV 5+
+#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV 5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:0 group-title="🏀| Sport", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",FC Bayern
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",FC Bayern
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
-#EXTINF:0 group-title="🏀| Sport", tvg-logo="https://dl-media.viber.com/6/share/2/long/vibes/icon/image/0x0/4daf/0f6e8c8bc7f88d58f7982e684919fc176df660f19d1a6027199d8c7b8a544daf.jpg", SKYNET Sport
+#EXTINF:0 group-title="🏀| Thể thao", tvg-logo="https://dl-media.viber.com/6/share/2/long/vibes/icon/image/0x0/4daf/0f6e8c8bc7f88d58f7982e684919fc176df660f19d1a6027199d8c7b8a544daf.jpg", SKYNET Sport
 http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
-
-
