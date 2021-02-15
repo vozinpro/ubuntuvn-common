@@ -1,31 +1,40 @@
-#EXTM3U url-tvg="https://bom.to/EPGstDCT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 #EXTM3U VOZIN.PRO!!!
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV#
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png" tvg-chno="1", VTV1
-https://vozin.pro/iptv.php?channel=vtv1
+#https://vozin.pro/iptv.php?channel=vtv1
+http://113.182.192.69:8888/vtvgiaitri.php?id=0  
 #EXTINF:0 tvg-id="vtv2hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png" tvg-chno="2", VTV2
-https://vozin.pro/iptv.php?channel=vtv2
+#https://vozin.pro/iptv.php?channel=vtv2
+http://113.182.192.69:8888/vtvgiaitri.php?id=1
 #EXTINF:0 tvg-id="vtv3hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png" tvg-chno="3", VTV3
-https://vozin.pro/iptv.php?channel=vtv3
+#https://vozin.pro/iptv.php?channel=vtv3
+http://113.182.192.69:8888/vtvgiaitri.php?id=2
 #EXTINF:0 tvg-id="vtv4hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" tvg-chno="4", VTV4
-https://vozin.pro/iptv.php?channel=vtv4
+#https://vozin.pro/iptv.php?channel=vtv4
+http://113.182.192.69:8888/vtvgiaitri.php?id=3
 #EXTINF:0 tvg-id="vtv5hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" tvg-chno="5", VTV5
-https://vozin.pro/iptv.php?channel=vtv5
+#https://vozin.pro/iptv.php?channel=vtv5
+http://113.182.192.69:8888/vtvgiaitri.php?id=4
 #EXTINF:0 tvg-id="" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5| Tây Nam Bộ
 https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
 #EXTINF:0 tvg-id="" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5| Tây Nguyên
 https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png" tvg-chno="6", VTV6
-https://vozin.pro/iptv.php?channel=vtv6
+#https://vozin.pro/iptv.php?channel=vtv6
+http://113.182.192.69:8888/vtvgiaitri.php?id=5
 #EXTINF:0 tvg-id="vtv7hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png" tvg-chno="7", VTV7
-https://vozin.pro/iptv.php?channel=vtv7
+#https://vozin.pro/iptv.php?channel=vtv7
+http://113.182.192.69:8888/vtvgiaitri.php?id=6
 #EXTINF:0 tvg-id="vtv8hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" tvg-chno="8", VTV8
-https://vozin.pro/iptv.php?channel=vtv8
+#https://vozin.pro/iptv.php?channel=vtv8
+http://113.182.192.69:8888/vtvgiaitri.php?id=7
 #EXTINF:0 tvg-id="vtv9hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png" tvg-chno="9", VTV9
-https://vozin.pro/iptv.php?channel=vtv9
+#https://vozin.pro/iptv.php?channel=vtv9
+http://113.182.192.69:8888/vtvgiaitri.php?id=8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - VTC#
 
