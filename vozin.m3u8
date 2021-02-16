@@ -550,32 +550,6 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest/scale-to-width-down/340?cb=20200922172456",ASTRO Super Sport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",BEIN Sport Asia 1
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",BEIN Sport Asia 2
-https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
-
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD1
-http://novaiptv.vip:80/waled89/ramer452/15933
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD2
-http://novaiptv.vip:80/waled89/ramer452/15934
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD3
-http://novaiptv.vip:80/waled89/ramer452/15935
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD4
-http://novaiptv.vip:80/waled89/ramer452/15936
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD5
-http://novaiptv.vip:80/waled89/ramer452/15937
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD6
-http://novaiptv.vip:80/waled89/ramer452/15938
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD7
-http://novaiptv.vip:80/waled89/ramer452/15939
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD8
-http://novaiptv.vip:80/waled89/ramer452/15940
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport HD9
-http://novaiptv.vip:80/waled89/ramer452/15941
-#EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png", BEIN Sport  HD10
-http://novaiptv.vip:80/waled89/ramer452/15942
-
 #EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png",BT Sport 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:0 group-title="🏀| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png",BT Sport 2
